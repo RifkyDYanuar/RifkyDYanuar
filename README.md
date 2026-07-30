@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifkydewani&show_icons=true&theme=radical&hide_border=true" alt="Rifky's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyDYanuar&show_icons=true&theme=radical&hide_border=true" alt="Rifky's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifkydewani&theme=radical&hide_border=true" alt="Rifky's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifkuDYanuar&theme=radical&hide_border=true" alt="Rifky's GitHub Streak" />
 </div>

@@ -2,16 +2,16 @@
 <h3 align="center">Software Engineer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rifkydewani" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rifky Dewani Yanuar" height="30" /></a>
-  <a href="https://github.com/rifkydewani" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Rifky Dewani Yanuar" height="30" /></a>
+  <a href="https://linkedin.com/in/rifky-dewani-yanuar" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rifky Dewani Yanuar" height="30" /></a>
+  <a href="https://github.com/RifkyDYanuar" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Rifky Dewani Yanuar" height="30" /></a>
 </p>
 
 <br>
 
 - 🎓 I’m a Computer Science student passionate about building scalable APIs, intelligent systems, and Computer Vision solutions.
-- 🔭 Currently working on my thesis and expanding my portfolio.
+- 🔭 Currently working on my thesis and expanding my portfolio at [rifkydewaniyanuar.dev](https://rifkydewaniyanuar.dev).
 - 💡 Always eager to learn new technologies and improve my problem-solving skills.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rifkydewani) or via email.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rifky-dewani-yanuar) or visit my [Portfolio Website](https://rifkydewaniyanuar.dev).
 
 <hr>
 

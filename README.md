@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifky Dewani Yanuar</h1>
-<h3 align="center">Backend Dev & ML Engineer from Indonesia 🇮🇩</h3>
+<h3 align="center">Software Engineer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rifkydewani" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rifky Dewani Yanuar" height="30" /></a>

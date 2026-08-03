@@ -90,6 +90,12 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RifkyDYanuar&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=c0caf5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
   <h3>🐍 Contribution Graph</h3>
 </div>
 
@@ -118,6 +124,13 @@
   <h3>🤝 Support & Connect</h3>
   <p>If you find my work useful, consider supporting me! It helps me keep creating open-source projects.</p>
   <a href="https://www.buymeacoffee.com/rifkydyanuar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌟 Daily Motivation</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </div>
 
 <!-- Footer wave -->

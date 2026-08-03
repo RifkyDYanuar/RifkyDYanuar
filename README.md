@@ -5,7 +5,7 @@
 
 <!-- Animated typed text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=22&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=700&lines=🚀+Hi+there!+I'm+Rifky+Dewani+Yanuar;💻+Software+Engineer+from+Indonesia;✨+Laravel+%26+React+Developer;🧠+AI+%26+Computer+Vision+Enthusiast;🌱+Always+learning,+always+building" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=22&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=700&lines=🚀+Hi+there!+I'm+Rifky+Dewani+Yanuar;💻+Software+Engineer+from+Indonesia;✨+Laravel+%26+React+Developer;🧠+AI+%26+Computer+Vision+Enthusiast;🌱+Always+learning,+always+building&v=1" alt="typing" />
 </div>
 
 <!-- Visitor + social -->
@@ -79,8 +79,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyDYanuar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyDYanuar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RifkyDYanuar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RifkyDYanuar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="langs" />
 </div>
 
 <div align="center">
@@ -96,9 +96,9 @@
 <!-- Animated Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/output/github-snake.svg?v=1" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/output/github-snake.svg?v=1" />
   </picture>
 </div>
 
@@ -109,7 +109,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RifkyDYanuar/RifkyDYanuar/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
 </div>
 
 <br>

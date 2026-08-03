@@ -123,21 +123,22 @@ const rifky = {
 <br>
 
 <!-- Stats -->
+<!-- STAT TOKEN: github-readme-stats free pool is rate-limited (HTTP 503).
+     Create a fine-grained PAT with NO scopes (public data only) at
+     https://github.com/settings/tokens and paste it after token= below
+     on BOTH stat cards. Leaving the placeholder shows a 503 until set. -->
 ##  GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyDYanuar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyDYanuar&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyDYanuar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&token=YOUR_STATS_TOKEN_HERE" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyDYanuar&layout=compact&theme=radical&hide_border=true&langs_count=8&token=YOUR_STATS_TOKEN_HERE" height="180" alt="langs" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifkyDYanuar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RifkyDYanuar&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=6" alt="trophy" />
-</div>
-
+<!-- The trophy service (github-profile-trophy) is dead (HTTP 402) — replaced by the activity graph below. -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RifkyDYanuar&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity" />
 </div>

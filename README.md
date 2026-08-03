@@ -5,7 +5,7 @@
 
 <!-- Animated typed text -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=22&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=700&lines=🚀+Hi+there!+I'm+Rifky+Dewani+Yanuar;💻+Software+Engineer+from+Indonesia;✨+Laravel+%26+React+Developer;🧠+AI+%26+Computer+Vision+Enthusiast;🌱+Always+learning,+always+building&v=1" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=22&duration=3000&pause=800&color=007ACC&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Hi+there!+I'm+Rifky+Dewani+Yanuar;%F0%9F%92%BB+Software+Engineer+from+Indonesia;%E2%9C%A8+Laravel+%26+React+Developer;%F0%9F%A7%A0+AI+%26+Computer+Vision+Enthusiast;%F0%9F%8C%B1+Always+learning,+always+building&v=2" alt="typing" />
 </div>
 
 <!-- Visitor + social -->

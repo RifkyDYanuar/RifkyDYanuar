@@ -26,16 +26,8 @@
   <a href="mailto:rifky@example.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="space background" />
-</p>
-
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
   <h3>About Me</h3>
 </div>
 
@@ -77,14 +69,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,kotlin,laravel,react,nextjs,vite,mysql,html,css,tailwind,tensorflow,opencv,pytorch,android,git,docker,linux,figma&perline=11" />
   </a>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100%" alt="matrix background" />
-</p>
-
-<br>
 
 <div align="center">
   <h3>🔥 GitHub Stats & Activity</h3>
